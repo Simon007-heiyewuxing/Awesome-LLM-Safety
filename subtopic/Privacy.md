@@ -583,6 +583,7 @@
 | 26.06 | No affiliation listed in PDF | arxiv | [General Techniques for Reducing Key-Switching Overhead in Privacy-Preserving Two-Party Transformer Inference](https://arxiv.org/abs/2606.25349) | **private inference**&**homomorphic encryption**&**key switching** |
 | 26.06 | Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, Pilani Campus | arxiv | [Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems](https://arxiv.org/abs/2606.25533) | **RAG security**&**privacy threats**&**trustworthy RAG** |
 | 26.06 | University of California, Irvine | arxiv | [Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents](https://arxiv.org/abs/2606.26627) | **LLM agents**&**data privacy**&**information flow** |
+| 26.07 | University of California, Irvine | arxiv | [PromptPET: Privacy-Utility Optimized Prompt Obfuscation](https://arxiv.org/abs/2607.02932) | **prompt privacy**&**prompt obfuscation**&**privacy-utility tradeoff** |
 
 
 

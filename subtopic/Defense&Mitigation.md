@@ -982,6 +982,13 @@
 | 26.07 | Mindgard | arxiv | [Behind the Refusal: Determining Guardrail Activation via Behavioral Monitoring](https://arxiv.org/abs/2607.02121) | **guardrails**&**behavioral monitoring**&**AI security** |
 | 26.06 | School of Cyber Science and Technology Shandong University | ICME 2026 | [FlipGuard: Defending Large Language Models Against Quantization-Conditioned Backdoor Attacks](https://arxiv.org/abs/2606.28962) | **backdoor defense**&**model quantization**&**LLM security** |
 | 26.06 | Beijing University of Posts and Telecommunications, Beijing, China | ICML 2026 | [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153) | **jailbreak defense**&**mechanistic interpretability**&**safety monitoring** |
+| 26.07 | University of Massachusetts Amherst | arxiv | [Safe Inference-Time Alignment via Lagrangian Reward Augmentation](https://arxiv.org/abs/2607.02781) | **inference-time alignment**&**safety constraints**&**Lagrangian optimization** |
+| 26.07 | Max Planck Institute for Software Systems, Germany | arxiv | [CONTRA: Red-Teaming Configurations of Personalizable Agents](https://arxiv.org/abs/2607.03220) | **agent security**&**red teaming**&**personalization** |
+| 26.07 | Department of Computer Science, Tennessee Tech University, TN, USA. | arxiv | [Knowledge Base Poisoning Attacks and Defense for Policy-Aware LLM-RAG Framework](https://arxiv.org/abs/2607.04379) | **RAG security**&**knowledge poisoning**&**agent defense** |
+| 26.07 | Department of Computer Science, University of South Dakota, USA | NeurIPS 2026 | [Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs](https://arxiv.org/abs/2607.07903) | **jailbreaks**&**mechanistic interpretability**&**adversarial robustness** |
+| 26.07 | University of Louisville | COLM 2026 | [Beware What You Autocomplete: Forensic Attribution of Back-doored Code Completions](https://arxiv.org/abs/2607.08011) | **backdoor attacks**&**code completion**&**data attribution** |
+| 26.07 | University of Louisville | COLM 2026 | [Who Broke the System? Failure Localization in LLM-Based Multi-Agent Systems](https://arxiv.org/abs/2607.07989) | **multi-agent safety**&**failure localization**&**LLM agents** |
+| 26.07 | Mila, Quebec AI Institute | COLM 2026 | [Efficient Safety Alignment of Language Models via Latent Personality Traits](https://arxiv.org/abs/2607.07918) | **safety alignment**&**jailbreak defense**&**latent adversarial training** |
 
 
 

@@ -526,6 +526,9 @@
 | 26.06 | Tencent Zhuque Lab | arxiv | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://arxiv.org/abs/2606.31227) | **agent security**&**red teaming**&**MCP security** |
 | 26.07 | AIM Intelligence | arxiv | [EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards](https://arxiv.org/abs/2607.00218) | **embodied safety**&**VLM evaluation**&**video benchmark** |
 | 26.07 | Department of Computer Sciences, University of Wisconsin-Madison | arxiv | [OpenSafeIntent: Evaluating Intent-Calibrated Safe Completion Across Dual-Use Prompt Sets](https://arxiv.org/abs/2607.02047) | **safe completion**&**dual-use prompts**&**intent calibration** |
+| 26.07 | The Pennsylvania State University | arxiv | [PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement](https://arxiv.org/abs/2607.02897) | **multimodal unlearning**&**privacy preservation**&**benchmarking** |
+| 26.07 | dreadnode, USA | arxiv | [ScopeJudge: Cost-Aware Pre-Execution Gating for Offensive Security Agents](https://arxiv.org/abs/2607.07774) | **agent safety**&**scope enforcement**&**LLM monitoring** |
+| 26.07 | LASR Labs | arxiv | [Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring](https://arxiv.org/abs/2607.08066) | **CoT monitoring**&**persuasion attacks**&**AI oversight** |
 
 
 

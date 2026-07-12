@@ -522,6 +522,9 @@
 | 26.06 | Shanghai Jiao Tong University | arxiv | [ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP](https://arxiv.org/abs/2606.27027) | **MCP Security**&**Tool Poisoning**&**Prompt Injection** |
 | 26.06 | University of Southern California | arxiv | [Agent Safety Is Action Alignment](https://arxiv.org/abs/2606.28739) | **action alignment**&**least privilege**&**agent safety** |
 | 26.06 | ByteDance | arxiv | [SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing](https://arxiv.org/abs/2606.29887) | **policy guardrailing**&**safety benchmark**&**in-context learning** |
+| 26.07 | University of North Texas, USA | arxiv | [Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis](https://arxiv.org/abs/2607.05842) | **LLM safety**&**vulnerability analysis**&**refusal ablation** |
+| 26.07 | Independent Researcher, Seattle, WA, USA | KDD Workshop ’26 | [Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety](https://arxiv.org/abs/2607.07097) | **multi-agent safety**&**delegation framing**&**operational reframing** |
+| 26.07 | Universidad Carlos III de Madrid | arxiv | [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) | **privacy protection**&**data leakage prevention**&**LLM firewall** |
 
 
 

@@ -1258,6 +1258,13 @@
 | 26.07 | Sun Yat-sen University | arxiv | [Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces](https://arxiv.org/abs/2607.00481) | **jailbreak attack**&**function calling**&**LLM security** |
 | 26.07 | Palo Alto Networks | arxiv | [Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment](https://arxiv.org/abs/2607.01239) | **tokenization attacks**&**jailbreaking**&**alignment robustness** |
 | 26.07 | Department of Computer Science, Michigan Technological University | arxiv | [Overthink-Triggered Slowdown Attacks on LVLM-Based Robotic Systems](https://arxiv.org/abs/2607.01518) | **LVLM safety**&**slowdown attacks**&**robotic systems** |
+| 26.07 | Department of Computer Science and Engineering, University of Nevada, Reno, Reno, USA | arxiv | [Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models](https://arxiv.org/abs/2607.02819) | **vision-language models**&**cloud-edge inference**&**token manipulation** |
+| 26.07 | Sun Yat-sen University | arxiv | [MOSAIC: Knowledge-Guided CLI Command Composition Attack in LLM Coding Agents](https://arxiv.org/abs/2607.02857) | **coding agents**&**CLI security**&**command composition** |
+| 26.07 | National University of Singapore | arxiv | [Overloading Large Vision-Language Models for Jailbreaking](https://arxiv.org/abs/2607.02961) | **multimodal jailbreak**&**LVLM safety**&**information overloading** |
+| 26.07 | The Pennsylvania State University, University Park, PA, USA | arxiv | [Your Agent’s Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses](https://arxiv.org/abs/2607.05029) | **memory poisoning**&**agent security**&**reasoning integrity** |
+| 26.07 | Seoul National University | arxiv | [Agent Data Injection Attacks are Realistic Threats to AI Agents](https://arxiv.org/abs/2607.05120) | **data injection**&**agent security**&**indirect prompt injection** |
+| 26.07 | China University of Petroleum-Beijing at Karamay, Karamay, Xinjiang, China | arxiv | [AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models](https://arxiv.org/abs/2607.06485) | **adversarial attacks**&**vision-language models**&**infrared remote sensing** |
+| 26.07 | Department of Computer Science, New Mexico State University, Las Cruces, New Mexico, USA | arxiv | [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](https://arxiv.org/abs/2607.06595) | **memory poisoning**&**LLM agents**&**agent security** |
 
 
 

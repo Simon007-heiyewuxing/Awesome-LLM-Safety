@@ -907,6 +907,8 @@
 | 26.06 | KDDI Research, Inc. | arxiv | [CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations](https://arxiv.org/abs/2606.31033) | **hallucination detection**&**retrieval-augmented generation**&**token-level detection** |
 | 26.07 | University of Wisconsin–Madison | arxiv | [Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors](https://arxiv.org/abs/2607.00447) | **hallucination**&**inference misalignment**&**diagnostic benchmark** |
 | 26.07 | No affiliation listed in PDF | arxiv | [Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting](https://arxiv.org/abs/2607.01457) | **hallucination mitigation**&**grounded generation**&**document rewriting** |
+| 26.07 | Department of Computer Science, University of Maryland, College Park | arxiv | [Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization](https://arxiv.org/abs/2607.05861) | **factual hallucination**&**reasoning models**&**reinforcement learning** |
+| 26.07 | Simon Fraser University | COLM 2026 | [Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator](https://arxiv.org/abs/2607.07993) | **hallucination detection**&**self-play**&**RLAIF** |
 
 
 
