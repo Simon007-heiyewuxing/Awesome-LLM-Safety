@@ -967,6 +967,21 @@
 | 26.06 | National Yang Ming Chiao Tung University | arxiv | [Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution](https://arxiv.org/abs/2606.25721) | **RAG poisoning**&**token attribution**&**poison detection** |
 | 26.06 | National Yang Ming Chiao Tung University | arxiv | [RAS: Measuring LLM Safety Through Refusal Alignment](https://arxiv.org/abs/2606.25750) | **refusal alignment**&**white-box evaluation**&**safety scoring** |
 | 26.06 | Independent | ICML 2026 Mechanistic Interpretability Workshop | [Refusal Lives Downstream of Persona in Chat Models](https://arxiv.org/abs/2606.26161) | **refusal behavior**&**model persona**&**mechanistic interpretability** |
+| 26.06 | Hong Kong University of Science and Technology | arxiv | [Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning](https://arxiv.org/abs/2606.27709) | **jailbreak robustness**&**persona conditioning**&**safe fine-tuning** |
+| 26.06 | KAIST | arxiv | [POLICYGUARD: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents](https://arxiv.org/abs/2606.29225) | **policy adherence**&**LLM agents**&**guardrails** |
+| 26.06 | University of Trento | arxiv | [Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876) | **multimodal safety**&**refusal steering**&**jailbreak defense** |
+| 26.07 | New Jersey Institute of Technology | arxiv | [A Penny for Your Prompts: Experiments Detecting and Mitigating LLM Usage by Survey Respondents](https://arxiv.org/abs/2607.00403) | **LLM usage**&**survey integrity**&**response detection** |
+| 26.07 | Tsinghua University | arxiv | [HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment](https://arxiv.org/abs/2607.00572) | **jailbreak robustness**&**safety alignment**&**representation learning** |
+| 26.07 | Carnegie Mellon University | arxiv | [Safeguarding LLM Agents from Misalignment through Provenance Analysis](https://arxiv.org/abs/2607.01236) | **LLM agents**&**provenance analysis**&**runtime guardrails** |
+| 26.07 | Roma Tre University, Rome, Italy | arxiv | [Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety](https://arxiv.org/abs/2607.01277) | **multi-turn safety**&**jailbreak defense**&**runtime oversight** |
+| 26.07 | AntGroup | arxiv | [Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification](https://arxiv.org/abs/2607.01793) | **agent safety**&**safety testing**&**red teaming** |
+| 26.07 | 360 AI Security Lab | arxiv | [ElephantAgent: Contextual State Continuity in Agentic Systems](https://arxiv.org/abs/2607.01919) | **agent security**&**context integrity**&**memory poisoning** |
+| 26.07 | Lancaster University | arxiv | [kNNGuard: Turning LLM Hidden Activations into a Training-Free Configurable Guardrail](https://arxiv.org/abs/2607.02072) | **LLM guardrails**&**prompt injection**&**jailbreak detection** |
+| 26.07 | Astroware AI, Delaware, USA | arxiv | [HaloGuard 1.0: An Open Weights Constitutional Classifier for Multilingual AI Safety](https://arxiv.org/abs/2607.02079) | **multilingual safety**&**guardrail classifiers**&**constitutional AI** |
+| 26.07 | UvA Bosch-Delta Lab, University of Amsterdam | arxiv | [Online Safety Monitoring for LLMs](https://arxiv.org/abs/2607.02510) | **online monitoring**&**risk control**&**LLM safety** |
+| 26.07 | Mindgard | arxiv | [Behind the Refusal: Determining Guardrail Activation via Behavioral Monitoring](https://arxiv.org/abs/2607.02121) | **guardrails**&**behavioral monitoring**&**AI security** |
+| 26.06 | School of Cyber Science and Technology Shandong University | ICME 2026 | [FlipGuard: Defending Large Language Models Against Quantization-Conditioned Backdoor Attacks](https://arxiv.org/abs/2606.28962) | **backdoor defense**&**model quantization**&**LLM security** |
+| 26.06 | Beijing University of Posts and Telecommunications, Beijing, China | ICML 2026 | [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](https://arxiv.org/abs/2606.28153) | **jailbreak defense**&**mechanistic interpretability**&**safety monitoring** |
 
 
 

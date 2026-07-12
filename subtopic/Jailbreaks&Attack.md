@@ -1253,6 +1253,11 @@
 | 26.06 | Information and Computer Science Department, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia | arxiv | [Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models](https://arxiv.org/abs/2606.26566) | **diffusion attacks**&**red teaming**&**vision-language models** |
 | 26.06 | Fujitsu Research of Europe, United Kingdom | arxiv | [MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG](https://arxiv.org/abs/2606.26793) | **agentic RAG**&**red teaming**&**MCTS** |
 | 26.06 | Department of Physics, University of Michigan | ACL 2026 | [Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings](https://arxiv.org/abs/2606.27287) | **Prompt Injection**&**Resume Screening**&**Hiring Fairness** |
+| 26.06 | Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA, USA | arxiv | [A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems](https://arxiv.org/abs/2606.31639) | **LLM security**&**vulnerability taxonomy**&**agent security** |
+| 26.07 | Korea University | arxiv | [KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2607.00422) | **RAG poisoning**&**agentic RAG**&**black-box attack** |
+| 26.07 | Sun Yat-sen University | arxiv | [Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces](https://arxiv.org/abs/2607.00481) | **jailbreak attack**&**function calling**&**LLM security** |
+| 26.07 | Palo Alto Networks | arxiv | [Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment](https://arxiv.org/abs/2607.01239) | **tokenization attacks**&**jailbreaking**&**alignment robustness** |
+| 26.07 | Department of Computer Science, Michigan Technological University | arxiv | [Overthink-Triggered Slowdown Attacks on LVLM-Based Robotic Systems](https://arxiv.org/abs/2607.01518) | **LVLM safety**&**slowdown attacks**&**robotic systems** |
 
 
 

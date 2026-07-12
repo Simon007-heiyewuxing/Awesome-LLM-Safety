@@ -903,6 +903,10 @@
 | 26.06 | Shanghai Artificial Intelligence Laboratory | arxiv | [MedBench v5: A Dynamic, Process-Oriented, and Hallucination-Aware Benchmark for Clinical Multimodal Models](https://arxiv.org/abs/2606.24155) | **Clinical AI**&**Process Auditing**&**Hallucination Monitoring** |
 | 26.06 | Amazon | 2nd Workshop on Compositional Learning at ICML 2026 | [Grad Detect: Gradient-Based Hallucination Detection in LLMs](https://arxiv.org/abs/2606.24790) | **hallucination detection**&**gradient analysis**&**LLM reliability** |
 | 26.06 | Alomana, Grottaglie, Italy | arxiv | [Perfect Detection, Failed Control: The Geometry of Knowing vs. Steering in Language Models](https://arxiv.org/abs/2606.24952) | **mechanistic interpretability**&**activation steering**&**hallucination control** |
+| 26.07 | School of Information, University of California, Berkeley, California, USA | arxiv | [Readable but Not Controllable: Neuron-Level Evidence for Medical LLM Hallucination](https://arxiv.org/abs/2607.00158) | **medical hallucination**&**neuron interpretability**&**activation steering** |
+| 26.06 | KDDI Research, Inc. | arxiv | [CORTEX: Token-Level Hallucination Detection in RAG via Comparative Internal Representations](https://arxiv.org/abs/2606.31033) | **hallucination detection**&**retrieval-augmented generation**&**token-level detection** |
+| 26.07 | University of Wisconsin–Madison | arxiv | [Understanding Why Language Models Hallucinate: Testing Reasoning Against Priors](https://arxiv.org/abs/2607.00447) | **hallucination**&**inference misalignment**&**diagnostic benchmark** |
+| 26.07 | No affiliation listed in PDF | arxiv | [Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting](https://arxiv.org/abs/2607.01457) | **hallucination mitigation**&**grounded generation**&**document rewriting** |
 
 
 

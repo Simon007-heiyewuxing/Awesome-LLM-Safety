@@ -517,6 +517,15 @@
 | 26.06 | University College London | arxiv | [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](https://arxiv.org/abs/2606.24819) | **privacy safety security**&**help-seeking benchmark**&**LLM advice** |
 | 26.06 | Centre for Machine Intelligence and Data Science, IIT Bombay | arxiv | [Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries](https://arxiv.org/abs/2606.26936) | **jailbreak attacks**&**bandit algorithms**&**safety benchmarks** |
 | 26.06 | University of Groningen | arxiv | [Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes](https://arxiv.org/abs/2606.27210) | **Safety Classification**&**Intent Modeling**&**Guardrail Training** |
+| 26.06 | Alibaba Security AGI Lab | arxiv | [Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety](https://arxiv.org/abs/2606.27632) | **adversarial robustness**&**content safety**&**LLM agents** |
+| 26.06 | Beijing University of Posts and Telecommunications, Beijing, 100876, China | arxiv | [ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents](https://arxiv.org/abs/2606.28061) | **agent privacy**&**tool use**&**privacy benchmarking** |
+| 26.06 | Singapore Management University | arxiv | [When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries](https://arxiv.org/abs/2606.28332) | **medical safety**&**high-risk queries**&**LLM alignment** |
+| 26.06 | Oxford Internet Institute, University of Oxford | ICML 2026 | [The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](https://arxiv.org/abs/2606.28843) | **multilingual safety**&**fine-tuning**&**alignment drift** |
+| 26.06 | ByteDance | arxiv | [SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing](https://arxiv.org/abs/2606.29887) | **policy guardrailing**&**safety benchmark**&**in-context learning** |
+| 26.06 | Erciyes University | arxiv | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](https://arxiv.org/abs/2606.30219) | **safety evaluation**&**benchmark validity**&**alignment auditing** |
+| 26.06 | Tencent Zhuque Lab | arxiv | [Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://arxiv.org/abs/2606.31227) | **agent security**&**red teaming**&**MCP security** |
+| 26.07 | AIM Intelligence | arxiv | [EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards](https://arxiv.org/abs/2607.00218) | **embodied safety**&**VLM evaluation**&**video benchmark** |
+| 26.07 | Department of Computer Sciences, University of Wisconsin-Madison | arxiv | [OpenSafeIntent: Evaluating Intent-Calibrated Safe Completion Across Dual-Use Prompt Sets](https://arxiv.org/abs/2607.02047) | **safe completion**&**dual-use prompts**&**intent calibration** |
 
 
 

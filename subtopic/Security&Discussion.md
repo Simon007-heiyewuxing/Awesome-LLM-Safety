@@ -520,6 +520,8 @@
 | 26.06 | ARYA Labs PBC | arxiv | [The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems](https://arxiv.org/abs/2606.26057) | **AI agents**&**runtime alignment**&**reference monitors** |
 | 26.06 | Xi’an Jiaotong-Liverpool University | arxiv | [TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation](https://arxiv.org/abs/2606.26874) | **vision-language models**&**causal grounding**&**medical hallucination** |
 | 26.06 | Shanghai Jiao Tong University | arxiv | [ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP](https://arxiv.org/abs/2606.27027) | **MCP Security**&**Tool Poisoning**&**Prompt Injection** |
+| 26.06 | University of Southern California | arxiv | [Agent Safety Is Action Alignment](https://arxiv.org/abs/2606.28739) | **action alignment**&**least privilege**&**agent safety** |
+| 26.06 | ByteDance | arxiv | [SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing](https://arxiv.org/abs/2606.29887) | **policy guardrailing**&**safety benchmark**&**in-context learning** |
 
 
 
